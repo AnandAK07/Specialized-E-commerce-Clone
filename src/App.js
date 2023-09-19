@@ -16,17 +16,15 @@ function App() {
   
   return (
 
-     {/* <Navbar/> */}
-     {/* <AllRoutes/> */}
-     {/* <ProductPage/>
-     <SingleProductPage/> */}
+    <div className="App">
     <ChakraProvider>
-      <div className="App">
+
         <Navbar />
         <AllRoutes />
         <Footer />
-<div/>
- <ChakraProvider/>
+    </ChakraProvider>
+    </div>
+     
   );
 }
 
