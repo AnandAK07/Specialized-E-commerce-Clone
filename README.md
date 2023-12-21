@@ -18,8 +18,8 @@ Gem Garden Jewelry Store is a web application designed for showcasing and sellin
 Gem Garden Jewelry Store is an online platform that offers a variety of exquisite jewelry pieces. Explore our collection and find the perfect gem for every occasion.
 
 ## Tech Stack
--React
--Redux
+- React
+- Redux
 - HTML
 - CSS
 - JavaScript
